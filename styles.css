@@ -1,0 +1,73 @@
+/* Parent of hover and anchor code */
+.fa 
+{
+    padding: 10px 20px;
+    font-size: 50px;
+    width: 70px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.fa:hover 
+{
+    opacity: 0.5;
+}
+
+
+
+  /* Facebook anchor code */
+.fa-facebook 
+{
+    background: #3B5998;
+    color: white;
+}
+
+  /* Youtube anchor code */
+.fa-youtube
+{
+    background: #f70303;
+    color: white;
+}
+
+  /* Google anchor code */
+.fa-google
+{
+    
+    background: #f5a105;
+    color: white;
+}
+
+/* Base 404 Button code */
+.button 
+{
+    color: white;
+    background-color: #000000;
+    font-style: normal;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+/* H1 header code */
+.h1_header_title
+    {
+        background-color: rgb(0, 0, 0) !important;
+    }
+
+
+/* Footer code*/
+#footer
+{
+    color: white;
+    background-color: #000000;
+    font-style: normal;
+    font-family: Arial, sans-serif;
+    font-weight: normal;
+    text-align: center;
+    position: fixed;
+    left: 0%;
+    bottom: 0%;
+    width: 100%;
+}
